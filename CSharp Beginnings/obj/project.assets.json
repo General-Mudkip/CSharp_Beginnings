@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bence\\RiderProjects\\Tutorials\\Tutorials\\Tutorials.csproj",
-      "projectName": "Tutorials",
-      "projectPath": "C:\\Users\\bence\\RiderProjects\\Tutorials\\Tutorials\\Tutorials.csproj",
+      "projectUniqueName": "C:\\Users\\bence\\RiderProjects\\Tutorials\\CSharp Beginnings\\CSharp Beginnings.csproj",
+      "projectName": "CSharp Beginnings",
+      "projectPath": "C:\\Users\\bence\\RiderProjects\\Tutorials\\CSharp Beginnings\\CSharp Beginnings.csproj",
       "packagesPath": "C:\\Users\\bence\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bence\\RiderProjects\\Tutorials\\Tutorials\\obj\\",
+      "outputPath": "C:\\Users\\bence\\RiderProjects\\Tutorials\\CSharp Beginnings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bence\\AppData\\Roaming\\NuGet\\NuGet.Config"

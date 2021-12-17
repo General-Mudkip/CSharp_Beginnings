@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorials", "Tutorials\Tutorials.csproj", "{8BD90229-46ED-4C1A-9F18-A964BEC8ADDA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp Beginnings", "CSharp Beginnings\CSharp Beginnings.csproj", "{8BD90229-46ED-4C1A-9F18-A964BEC8ADDA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

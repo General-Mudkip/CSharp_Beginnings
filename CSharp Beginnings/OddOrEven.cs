@@ -4,7 +4,7 @@ namespace Tutorials
 {
     public class OddOrEven
     {
-        public static void OddEven()
+        public static bool OddEven()
         {
             Console.WriteLine("Enter an integer.");
             try
@@ -20,10 +20,13 @@ namespace Tutorials
                 {
                     Console.WriteLine("Your number is odd.");
                 }
+
+                return true;
             }
             catch (FormatException)
             {
                 Console.WriteLine("Enter a number!");
+                return true;
             }
         }
     }
