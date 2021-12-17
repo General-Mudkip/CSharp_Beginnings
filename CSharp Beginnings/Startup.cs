@@ -11,7 +11,8 @@
                 //do_loop = OddOrEven.OddEven();
                 //do_loop = LessThan10.LessThan();
                 //do_loop = Divisors.FindDivisors();
-                do_loop = ListIntersection.FindListIntersection();
+                // do_loop = ListIntersection.FindListIntersection();
+                do_loop = Palindrome.IsPalindrome();
             } while (do_loop == true);
         }
     }
