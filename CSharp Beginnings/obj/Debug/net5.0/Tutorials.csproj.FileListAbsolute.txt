@@ -1,0 +1,16 @@
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\bin\Debug\net5.0\Tutorials.exe
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\bin\Debug\net5.0\Tutorials.deps.json
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\bin\Debug\net5.0\Tutorials.runtimeconfig.json
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\bin\Debug\net5.0\Tutorials.runtimeconfig.dev.json
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\bin\Debug\net5.0\Tutorials.dll
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\bin\Debug\net5.0\ref\Tutorials.dll
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\bin\Debug\net5.0\Tutorials.pdb
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\obj\Debug\net5.0\Tutorials.csproj.AssemblyReference.cache
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\obj\Debug\net5.0\Tutorials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\obj\Debug\net5.0\Tutorials.AssemblyInfoInputs.cache
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\obj\Debug\net5.0\Tutorials.AssemblyInfo.cs
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\obj\Debug\net5.0\Tutorials.csproj.CoreCompileInputs.cache
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\obj\Debug\net5.0\Tutorials.dll
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\obj\Debug\net5.0\ref\Tutorials.dll
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\obj\Debug\net5.0\Tutorials.pdb
+C:\Users\bence\RiderProjects\Tutorials\Tutorials\obj\Debug\net5.0\Tutorials.genruntimeconfig.cache
