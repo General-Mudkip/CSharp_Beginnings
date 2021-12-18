@@ -1,4 +1,6 @@
-﻿namespace Tutorials
+﻿using System;
+
+namespace Tutorials
 {
     public class Startup
     {
@@ -12,7 +14,9 @@
                 //do_loop = LessThan10.LessThan();
                 //do_loop = Divisors.FindDivisors();
                 // do_loop = ListIntersection.FindListIntersection();
-                do_loop = Palindrome.IsPalindrome();
+                // do_loop = Palindrome.IsPalindrome();
+                // do_loop = TestingGround.TimesTable();
+                do_loop = Fibonacci.FindFibonacci();
             } while (do_loop == true);
         }
     }
