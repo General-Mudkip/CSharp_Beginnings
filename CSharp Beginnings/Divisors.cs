@@ -11,8 +11,7 @@ namespace Tutorials
             Console.WriteLine("Enter a number to find the divisors of.");
             try
             {
-                string user_input = Console.ReadLine();
-                int num_input = Int32.Parse(user_input);
+                int num_input = Int32.Parse(Console.ReadLine());
 
                 int divisor = 0;
                 List<int> divisors = new List<int>();
@@ -29,10 +28,7 @@ namespace Tutorials
                     }
                 }
                 
-                foreach (int item in divisors)
-                {
-                    Console.WriteLine(item);
-                }
+                divisors.ForEach(Console.WriteLine);
                 
                 return true;
             }
